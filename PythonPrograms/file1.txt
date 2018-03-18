@@ -1,0 +1,4 @@
+A backslash character can also be used, 
+and it tells the interpreter that the next character – following the slash
+should be treated as a new line. 
+This character is useful when you don’t want to start a new line in the text itself but in the code. 

@@ -1,0 +1,3 @@
+When you’re working with Python, 
+you don’t need to import a library in order to read and write files. 
+It’s handled natively in the language, albeit in a unique manner.
